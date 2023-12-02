@@ -1,0 +1,31 @@
+# Development-specific files
+/development/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+*.venv
+env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE / Editor
+.idea/
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files and databases
+*.log
+*.sqlite
